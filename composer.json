@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "shoyim/laravel-lang",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Laravel framework uchun o'zbekcha til paketi",
     "keywords": ["laravel", "framework","language"],
     "license": "MIT",
     "require": {
